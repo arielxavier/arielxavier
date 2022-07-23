@@ -8,8 +8,8 @@ Eu sou a [**Ariel Xavier**](https://www.linkedin.com/in/euarielxavier/), tenho 2
 
 <div align="center">
   <a href="https://github.com/arielxavier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielxavier&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielxavier&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arielxavier&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielxavier&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
