@@ -1,6 +1,6 @@
 ### Oie, seja bem vindo(a)! 👋
 ##
-Eu sou a [**Ariel Xavier**](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white), tenho 27 anos e moro no Goiás. Sou Técnica de Enfermagem e graduanda no 2° semestre em Análise e Desenvolvimento de Sistemas pela Uniasselvi.
+Eu sou a [**Ariel Xavier**](https://www.linkedin.com/in/euarielxavier/), tenho 27 anos e moro no Goiás. Sou Técnica de Enfermagem e graduanda no 2° semestre em Análise e Desenvolvimento de Sistemas pela Uniasselvi.
 
 🌱 Estudando HTML, CSS e JAVASCRIPT. Em andamento no JAVA pelo BOOTCAMP code Girls da [Dio.me](https://www.dio.me/).
 
