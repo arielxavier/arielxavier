@@ -2,7 +2,7 @@
 ##
 Eu sou a [**Ariel Xavier**](https://www.linkedin.com/in/euarielxavier/), tenho 27 anos e moro no Goiás. Sou Técnica de Enfermagem e graduanda no 2° semestre em Análise e Desenvolvimento de Sistemas pela Uniasselvi.
 
-🌱 Estudando HTML, CSS e JAVASCRIPT. Em andamento no JAVA pelo BOOTCAMP code Girls da [Dio.me](https://www.dio.me/).
+🌱 Estudando HTML, CSS e JAVASCRIPT.
 
 😄 Pronouns:Ela/dela
 
